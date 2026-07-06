@@ -96,10 +96,11 @@ Formwork-Detection-Using-YOLO11/
   <img src="https://github.com/user-attachments/assets/afd5c1fb-ee23-49ba-9676-b0b327098ace" width="48%" />
   <img src="https://github.com/user-attachments/assets/d795f13b-9002-42b6-bb1d-51a35f338308" width="48%" />
 
-  <img src="https://github.com/user-attachments/assets/e9b4aa96-e545-40bf-b2d6-6aeb16933f37" width="48%" />
+  <img src="https://github.com/user-attachments/assets/11aa8b1d-8466-405b-b3a1-9cf5ad1701d3" width="48%" />
   <img src="https://github.com/user-attachments/assets/38d90c9d-1716-45e4-819d-37d0be02b95d" width="48%" />
 
 </div>
+
 
 ## ⚙️ Installation
 
