@@ -21,45 +21,46 @@ The dataset was manually annotated using LabelImg and structured into train, val
 
 ## 📁 Project Structure
 
-
+```text
 Formwork-Detection-Using-YOLO11/
 │
 ├── datasets/
-│ ├── images/
-│ │ ├── train/
-│ │ ├── val/
-│ │ └── test/
-│ ├── labels/
-│ ├── classes.txt
-│ └── data.yaml
+│   ├── images/
+│   │   ├── train/
+│   │   ├── val/
+│   │   └── test/
+│   ├── labels/
+│   ├── classes.txt
+│   └── data.yaml
 │
 ├── demo/
-│ ├── aluminum_024.jpg
-│ ├── coffor_003.jpg
-│ ├── plastic_045.jpg
-│ ├── steel_012.jpg
-│ └── wood_080.jpg
+│   ├── aluminum_024.jpg
+│   ├── coffor_003.jpg
+│   ├── plastic_045.jpg
+│   ├── steel_012.jpg
+│   └── wood_080.jpg
 │
 ├── models/
-│ └── best.pt
+│   └── best.pt
 │
 ├── runs/
-│ └── detect/
-│ ├── Formwork_Final/
-│ ├── HighConfidence/
-│ └── test_predictions/
+│   └── detect/
+│       ├── Formwork_Final/
+│       ├── HighConfidence/
+│       └── test_predictions/
 │
 ├── scripts/
-│ ├── inference.py
-│ ├── merge_dataset.py
-│ ├── find_missing_labels.py
-│ └── check_predictions.py
+│   ├── inference.py
+│   ├── merge_dataset.py
+│   ├── find_missing_labels.py
+│   └── check_predictions.py
 │
 ├── notebooks/
-│ └── formwork-detection.ipynb
+│   └── formwork-detection.ipynb
 │
 ├── README.md
 └── requirements.txt
+```
 
 ### ⚙️ Methodology
 - Model: YOLO11s (Ultralytics)
