@@ -44,16 +44,16 @@ Formwork-Detection-Using-YOLO11/
 │ └── best.pt
 │
 ├── runs/
-│ ├── detect/
-│ │ ├── Formwork_Final/
-│ │ ├── HighConfidence/
-│ │ └── test_predictions/
+│ └── detect/
+│ ├── Formwork_Final/
+│ ├── HighConfidence/
+│ └── test_predictions/
 │
 ├── scripts/
 │ ├── inference.py
 │ ├── merge_dataset.py
 │ ├── find_missing_labels.py
-│ ├── check_predictions.py
+│ └── check_predictions.py
 │
 ├── notebooks/
 │ └── formwork-detection.ipynb
